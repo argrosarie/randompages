@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react'
 
 function App() {
+  const [randomData, setRandomData] = useState(null)
+
+  const getRandomData = async () => {
+    try {
+      const response = await fetch('/data.json') // Ruta relativa al archivo JSON
+      if (!response.ok) {
+        throw new Error('No se pudo cargar el archivo JSON.')
+      }
+      const data = await response.json()
+      const randomIndex = Math.floor(Math.random() * data.length)
+      setRandomData(data[randomIndex])
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Mostrar Datos Aleatorios</h1>
+      <button onClick={getRandomData}>Mostrar dato aleatorio</button>
+      {randomData && (
+        <div>
+          <h2>{randomData.page}</h2>
+          <p>{randomData.description}</p>
+        </div>
+      )}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

@@ -1,0 +1,722 @@
+[
+  {
+    "page": "1",
+    "description": "Abbreviations"
+  },
+  {
+    "page": "6",
+    "description": "Absolutes"
+  },
+  {
+    "page": "7",
+    "description": ""
+  },
+  {
+    "page": "8",
+    "description": "Adjective/Adverb Choice"
+  },
+  {
+    "page": "9",
+    "description": "Adjectives"
+  },
+  {
+    "page": "24",
+    "description": "Adverbs"
+  },
+  {
+    "page": "35",
+    "description": "Agreement of Subject and Verb"
+  },
+  {
+    "page": "42",
+    "description": "Allegory"
+  },
+  {
+    "page": "43",
+    "description": "Alliteration"
+  },
+  {
+    "page": "43",
+    "description": "Allusion"
+  },
+  {
+    "page": " 44",
+    "description": "Alphabetizing"
+  },
+  {
+    "page": "47",
+    "description": "Analogy"
+  },
+  {
+    "page": "47",
+    "description": "Anecdote"
+  },
+  {
+    "page": "48",
+    "description": "Anglicized words"
+  },
+  {
+    "page": "48",
+    "description": "Antecedent"
+  },
+  {
+    "page": " 49",
+    "description": "Antonyms"
+  },
+  {
+    "page": "49",
+    "description": "Appositive"
+  },
+  {
+    "page": "50",
+    "description": "Argument"
+  },
+  {
+    "page": "50",
+    "description": "Articles"
+  },
+  {
+    "page": "56",
+    "description": "Aspect"
+  },
+  {
+    "page": "57",
+    "description": "Auxiliaty Verbs"
+  },
+  {
+    "page": "59",
+    "description": "Be"
+  },
+  {
+    "page": "62",
+    "description": "Capitalization"
+  },
+  {
+    "page": "66",
+    "description": "Case"
+  },
+  {
+    "page": "68",
+    "description": "Cause and Effect"
+  },
+  {
+    "page": "73",
+    "description": "Chronological Order"
+  },
+  {
+    "page": "75",
+    "description": "Classification"
+  },
+  {
+    "page": "76",
+    "description": "Clauses"
+  },
+  {
+    "page": "84",
+    "description": "Coherence"
+  },
+  {
+    "page": "85",
+    "description": "Colloquialisms"
+  },
+  {
+    "page": "85",
+    "description": "Comma Splice"
+  },
+  {
+    "page": "87",
+    "description": "Commands"
+  },
+  {
+    "page": "88",
+    "description": "Comparision and Contrast"
+  },
+  {
+    "page": "94",
+    "description": "Complements"
+  },
+  {
+    "page": "95",
+    "description": "Concession"
+  },
+  {
+    "page": "96",
+    "description": "Conditional Sentences"
+  },
+  {
+    "page": "99",
+    "description": "Confusing Choices"
+  },
+  {
+    "page": "118",
+    "description": "Conjunctions"
+  },
+  {
+    "page": "118",
+    "description": "Connecting Words"
+  },
+  {
+    "page": "119",
+    "description": "Connotation"
+  },
+
+  {
+    "page": "120",
+    "description": "Consonants"
+  },
+  {
+    "page": "120",
+    "description": "Context"
+  },
+  {
+    "page": "120",
+    "description": "Contractions"
+  },
+  {
+    "page": "122",
+    "description": "Contrary-to-Fact-Statements"
+  },
+  {
+    "page": "122",
+    "description": "Coordinating Conjunctions"
+  },
+  {
+    "page": "126",
+    "description": "Countable and Uncountable Nouns"
+  },
+  {
+    "page": "132",
+    "description": "Definition"
+  },
+  {
+    "page": "133",
+    "description": "Denotation"
+  },
+  {
+    "page": "133",
+    "description": "Description"
+  },
+  {
+    "page": "133",
+    "description": "Determiners"
+  },
+  {
+    "page": "137",
+    "description": "Dialogue"
+  },
+  {
+    "page": "137",
+    "description": "Diction"
+  },
+  {
+    "page": "138",
+    "description": "Dictionaries"
+  },
+  {
+    "page": "139",
+    "description": "Direct Speech"
+  },
+  {
+    "page": "141",
+    "description": "Do"
+  },
+  {
+    "page": "142",
+    "description": "Documentation"
+  },
+  {
+    "page": "146",
+    "description": "Else"
+  },
+  {
+    "page": "146",
+    "description": "Emphasis"
+  },
+  {
+    "page": "149",
+    "description": "Enough"
+  },
+  {
+    "page": "150",
+    "description": "Essential and Nonessential Modifiers"
+  },
+  {
+    "page": "152",
+    "description": "Expletive"
+  },
+  {
+    "page": "152",
+    "description": "Explicit Material"
+  },
+  {
+    "page": "153",
+    "description": "Exposition"
+  },
+  {
+    "page": "154",
+    "description": "Fiction"
+  },
+  {
+    "page": "155",
+    "description": "Figures of Speech"
+  },
+  {
+    "page": "155",
+    "description": "Finite Verb"
+  },
+  {
+    "page": "158",
+    "description": "Format"
+  },
+  {
+    "page": "159",
+    "description": "Fragments"
+  },
+  {
+    "page": "161",
+    "description": "Function Words"
+  },
+  {
+    "page": "162",
+    "description": "Gender"
+  },
+  {
+    "page": "163",
+    "description": "Generalization"
+  },
+  {
+    "page": "164",
+    "description": "Gerounds"
+  },
+  {
+    "page": "166",
+    "description": "Have"
+  },
+  {
+    "page": "167",
+    "description": "Idioms"
+  },
+  {
+    "page": "167",
+    "description": "Image"
+  },
+  {
+    "page": "169",
+    "description": "Implicit Ideas"
+  },
+  {
+    "page": "170",
+    "description": "Indentation"
+  },
+  {
+    "page": "173",
+    "description": "Infinitive"
+  },
+  {
+    "page": "175",
+    "description": "Infinitive-ing Choice"
+  },
+  {
+    "page": "180",
+    "description": "Interjections"
+  },
+  {
+    "page": "181",
+    "description": "Interrumpters"
+  },
+  {
+    "page": "183",
+    "description": "Inverted Word Order"
+  },
+  {
+    "page": "184",
+    "description": "Irony"
+  },
+  {
+    "page": "184",
+    "description": "Irrelevant Material"
+  },
+  {
+    "page": "185",
+    "description": "It, Impersonal Use"
+  },
+  {
+    "page": "185",
+    "description": "Italics"
+  },
+  {
+    "page": "186",
+    "description": "Jargon"
+  },
+  {
+    "page": "187",
+    "description": "Literary Terms"
+  },
+  {
+    "page": "187",
+    "description": "Logical Order"
+  },
+  {
+    "page": "189",
+    "description": "Markers"
+  },
+  {
+    "page": "190",
+    "description": "Metaphor"
+  },
+  {
+    "page": "191",
+    "description": "Modals"
+  },
+  {
+    "page": "201",
+    "description": "Modifiers"
+  },
+  {
+    "page": "202",
+    "description": "Mood"
+  },
+  {
+    "page": "204",
+    "description": "Narration"
+  },
+  {
+    "page": "204",
+    "description": "Negation"
+  },
+  {
+    "page": "208",
+    "description": "Nouns"
+  },
+  {
+    "page": "215",
+    "description": "Number, Singular and Plural"
+  },
+  {
+    "page": "215",
+    "description": "Numbers, Use in Formal Writing"
+  },
+  {
+    "page": "216",
+    "description": "Objective Complement"
+  },
+  {
+    "page": "218",
+    "description": "Objects, Kinds of"
+  },
+  {
+    "page": "218",
+    "description": "Operators"
+  },
+  {
+    "page": "223",
+    "description": "Outlining"
+  },
+  {
+    "page": "227",
+    "description": "Paragraph"
+  },
+  {
+    "page": "228",
+    "description": "Parallel Structure"
+  },
+  {
+    "page": "231",
+    "description": "Paraphrase"
+  },
+  {
+    "page": "231",
+    "description": "Participles"
+  },
+  {
+    "page": "237",
+    "description": "Particle"
+  },
+  {
+    "page": "237",
+    "description": "Parts of Speech"
+  },
+
+  {
+    "page": "238",
+    "description": "Passive Verbs"
+  },
+  {
+    "page": "240",
+    "description": "Person"
+  },
+  {
+    "page": "241",
+    "description": "Personification"
+  },
+  {
+    "page": "241",
+    "description": "Phrase"
+  },
+  {
+    "page": "242",
+    "description": "Plagiarism"
+  },
+  {
+    "page": "242",
+    "description": "Poit of view"
+  },
+  {
+    "page": "244",
+    "description": "Possessives"
+  },
+  {
+    "page": "245",
+    "description": "Predicate"
+  },
+  {
+    "page": "245",
+    "description": "Predicate Complements"
+  },
+  {
+    "page": "246",
+    "description": "Prepositions"
+  },
+  {
+    "page": "255",
+    "description": "Principal Parts of Verbs"
+  },
+  {
+    "page": "256",
+    "description": "Process"
+  },
+  {
+    "page": "257",
+    "description": "Pronouns"
+  },
+  {
+    "page": "268",
+    "description": "Proofreading"
+  },
+  {
+    "page": "269",
+    "description": "Punctuation"
+  },
+  {
+    "page": "283",
+    "description": "Quantity"
+  },
+  {
+    "page": "283",
+    "description": "Question, Direct"
+  },
+  {
+    "page": "289",
+    "description": "Reference of the Pronouns"
+  },
+  {
+    "page": "293",
+    "description": "Relevant Material"
+  },
+  {
+    "page": "293",
+    "description": "Repetition"
+  },
+  {
+    "page": "294",
+    "description": "Reported Speech"
+  },
+  {
+    "page": "298",
+    "description": "Rhetoric"
+  },
+  {
+    "page": "298",
+    "description": "Rhyme"
+  },
+  {
+    "page": "299",
+    "description": "Run-on Sentences"
+  },
+  {
+    "page": "301",
+    "description": "Sentence"
+  },
+  {
+    "page": "302",
+    "description": "Sentence Patterns"
+  },
+  {
+    "page": "303",
+    "description": "Sentence Structure"
+  },
+  {
+    "page": "305",
+    "description": "Sentence Variety"
+  },
+  {
+    "page": "306",
+    "description": "Sentence, Kinds of"
+  },
+  {
+    "page": "307",
+    "description": "Simile"
+  },
+  {
+    "page": "308",
+    "description": "Slang"
+  },
+  {
+    "page": "308",
+    "description": "So"
+  },
+  {
+    "page": "309",
+    "description": "Spatial Order"
+  },
+  {
+    "page": "310",
+    "description": "Spelling"
+  },
+  {
+    "page": "314",
+    "description": "Statement"
+  },
+  {
+    "page": "317",
+    "description": "Style"
+  },
+  {
+    "page": "323",
+    "description": "Subject, Grammatical"
+  },
+  {
+    "page": "323",
+    "description": "Subject of a Composition"
+  },
+  {
+    "page": "324",
+    "description": "Subjunctive"
+  },
+  {
+    "page": "326",
+    "description": "Subordinating and Reducing"
+  },
+  {
+    "page": "329",
+    "description": "Substantiation"
+  },
+  {
+    "page": "329",
+    "description": "Substitutions"
+  },
+  {
+    "page": "330",
+    "description": "Summary"
+  },
+  {
+    "page": "330",
+    "description": "Syllable Division"
+  },
+  {
+    "page": "332",
+    "description": "Synonyms"
+  },
+
+  {
+    "page": "333",
+    "description": "Tag Questions"
+  },
+  {
+    "page": "333",
+    "description": "Tense"
+  },
+  {
+    "page": "346",
+    "description": "Thesis, Meanings of"
+  },
+  {
+    "page": "347",
+    "description": "Thesis Statement"
+  },
+  {
+    "page": "348",
+    "description": "Titles"
+  },
+  {
+    "page": "350",
+    "description": "Tone"
+  },
+  {
+    "page": "350",
+    "description": "Topic, Meaning of"
+  },
+  {
+    "page": "351",
+    "description": "Topic Sentence"
+  },
+  {
+    "page": "352",
+    "description": "Transitions"
+  },
+  {
+    "page": "353",
+    "description": "Trite Words and Expressions"
+  },
+
+  {
+    "page": "353",
+    "description": "Two-Word Verbs"
+  },
+  {
+    "page": "359",
+    "description": "Usage Levels"
+  },
+  {
+    "page": "361",
+    "description": "Verb Phrase"
+  },
+  {
+    "page": "361",
+    "description": "Verbals"
+  },
+  {
+    "page": "362",
+    "description": "Verbs"
+  },
+  {
+    "page": "363",
+    "description": "Verbs, Irregular"
+  },
+  {
+    "page": "368",
+    "description": "Verbs, Kinds of"
+  },
+  {
+    "page": "368",
+    "description": "Very"
+  },
+  {
+    "page": "369",
+    "description": "Voice"
+  },
+  {
+    "page": "372",
+    "description": "Vowels"
+  },
+  {
+    "page": "373",
+    "description": "WH-Words"
+  },
+  {
+    "page": "374",
+    "description": "Women, Terms Refering to"
+  },
+  {
+    "page": "375",
+    "description": "Word, Formation"
+  },
+  {
+    "page": "386",
+    "description": "Word Order"
+  },
+  {
+    "page": "387",
+    "description": "Wordiness"
+  }
+]
