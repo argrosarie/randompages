@@ -18,15 +18,21 @@ function App() {
   }
 
   return (
-    <div className="App">
-      <h1>Mostrar Datos Aleatorios</h1>
-      <button onClick={getRandomData}>Mostrar dato aleatorio</button>
-      {randomData && (
-        <div>
-          <h2>{randomData.page}</h2>
-          <p>{randomData.description}</p>
-        </div>
-      )}
+    <div className="px-4 py-8 grid place-content-center bg-gray-950 min-h-screen ">
+      <section className="flex flex-col items-center space-y-4">
+        <button
+          className="w-40 bg-gray-500 py-4 px-8 rounded text-gray-300 font-bold uppercase text-center"
+          onClick={getRandomData}
+        >
+          Cúcu
+        </button>
+        {randomData && (
+          <div className="flex flex-col items-center text-center text-gray-500 text-2xl">
+            <p>{randomData.description}</p>
+            <h2>{randomData.page}</h2>
+          </div>
+        )}
+      </section>
     </div>
   )
 }
